@@ -17,7 +17,7 @@ class Config(object):
 	UPDATES_CHANNEL = ""
 	DOWN_PATH = "./downloads"
 	PRESET = "PRESET", "ultrafast"
-	OWNER_ID = ""
+	OWNER_ID = "1463744219"
 	CAPTION = "By @AHToolsBot"
 	BOT_USERNAME = "akwatermark_bot"
 	DATABASE_URL = "mongodb+srv://atozcartoonist:Pubghacker@987@cluster0.kua5r.mongodb.net/cluster0?retryWrites=true&w=majority" 
